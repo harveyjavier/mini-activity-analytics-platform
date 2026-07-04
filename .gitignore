@@ -1,0 +1,19 @@
+# Backend
+backend/activity.db
+backend/server.log
+__pycache__/
+*.pyc
+
+# Agent
+agent/__pycache__/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+venv/
+env/
